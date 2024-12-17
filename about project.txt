@@ -1,0 +1,7 @@
+Title: make a tic tac toe game 
+contraints:
+winner is when one player is able to mark three of the same boxes in a row 
+we will have 2 players who will play in turns 
+we will have a start game  button
+we will have a restart game  button
+we wil have an end game button 
